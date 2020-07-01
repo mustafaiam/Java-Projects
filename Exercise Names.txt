@@ -1,0 +1,48 @@
+01. Java Program To Print An Integer (Entered By User)
+02. Java Program To Add Two Integers
+03. Java Program To Multiply Two Floating Point Numbers
+04. Java Program To Find ASCII Value Of A Character
+05. Java Program To Compute Quotient And Remainder
+06. Java Program To Swap Two Numbers
+07. Java Program To Check Whether A Number Is Even Or Odd
+08. Java Program To Check Whether An Alphabet Is Vowel Or Consonant
+09. Java Program To Find The Largest Among Three Numbers
+10. Java Program To Find All Roots Of A Quadratic Equation
+11. Java Program To Check Leap Year
+12. Java Program To Check Whether A Number Is Positive Or Negative
+13. Java Program To Check Whether A Character Is Alphabet Or Not
+14. Java Program To Calculate The Sum Of Natural Numbers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
